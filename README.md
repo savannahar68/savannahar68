@@ -1,6 +1,8 @@
-### Hi there 👋
 
-Here to create more bugs!
-
-![Savan's GitHub stats](https://github-readme-stats.vercel.app/api?username=savannahar68&show_icons=true&theme=dracula)
-
+<div align="center">  
+  <h2> Here to create more bugs! </h2>
+</div>
+<br/>
+<p align="center">  
+  <img src="https://github.com/savannahar68/savannahar68/blob/master/leapOfFaith.jpg" />
+</p>
