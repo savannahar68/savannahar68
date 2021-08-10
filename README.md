@@ -1,6 +1,6 @@
 
 <div align="center">  
-  <h2> Here to create more bugs! </h2>
+  <h2> Building something while breaking other things ! </h2>
 </div>
 <br/>
 <p align="center">  
